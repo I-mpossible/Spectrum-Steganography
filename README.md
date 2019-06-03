@@ -7,4 +7,4 @@ Spectrum-Steganography is a way to hide message in the spectrum of a music. Upon
 Input the name of a image located in the same folder and press Enter.
 
 ## TODO
-- [ ] Add music smoothing
+- [ ] Add audio smoothing
